@@ -4,4 +4,9 @@ This repository is for the RENESME LITERARY website I was commissioned to set up
 All of the files are contained in the \docs directory.
 
 Twitter handle: @RenesmeLiterary
-Live website URL: https://renesmeliterary.netlify.app/
+Live netify URL: https://renesmeliterary.netlify.app/
+Live .com URL: https://renesmeliterary.com/
+
+Link to hosting service: https://app.netlify.com
+Link to GitHib: https://github.com/DavidFantin/RenesmeLiteraryWebsite
+Link to domain provider: https://ap.www.namecheap.com/
