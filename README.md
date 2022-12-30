@@ -10,7 +10,7 @@ This repository is for the RENESME LITERARY website I was commissioned to set up
 ## Links
 
 - Twitter handle: @RenesmeLiterary
-- Live netify URL: https://renesmeliterary.netlify.app/
+- Live netlify URL: https://renesmeliterary.netlify.app/
 - Live .com URL: https://renesmeliterary.com/
 - Link to hosting service: https://app.netlify.com
 - Link to GitHib: https://github.com/DavidFantin/RenesmeLiteraryWebsite
