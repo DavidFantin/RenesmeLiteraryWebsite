@@ -15,3 +15,4 @@ This repository is for the RENESME LITERARY website I was commissioned to set up
 - Link to hosting service: https://app.netlify.com
 - Link to GitHib: https://github.com/DavidFantin/RenesmeLiteraryWebsite
 - Link to domain provider: https://ap.www.namecheap.com/
+- Link to Google Search Console: https://search.google.com/search-console?resource_id=sc-domain%3Arenesmeliterary.com
